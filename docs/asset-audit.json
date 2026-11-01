@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "file": "acolyte_bow.png",
+      "size": [
+        320,
+        384
+      ],
+      "mode": "RGBA",
+      "transparent": true
+    },
+    {
+      "file": "acolyte_genuflect.png",
+      "size": [
+        320,
+        384
+      ],
+      "mode": "RGBA",
+      "transparent": true
+    },
+    {
+      "file": "acolyte_kneel.png",
+      "size": [
+        320,
+        384
+      ],
+      "mode": "RGBA",
+      "transparent": true
+    },
+    {
+      "file": "acolyte_walk1.png",
+      "size": [
+        320,
+        384
+      ],
+      "mode": "RGBA",
+      "transparent": true
+    },
+    {
+      "file": "acolyte_walk2.png",
+      "size": [
+        320,
+        384
+      ],
+      "mode": "RGBA",
+      "transparent": true
+    },
+    {
+      "file": "infernal_sanctuary.png",
+      "size": [
+        948,
+        1659
+      ],
+      "mode": "RGB"
+    }
+  ],
+  "referenced": [
+    "acolyte_bow.png",
+    "acolyte_genuflect.png",
+    "acolyte_kneel.png",
+    "acolyte_walk1.png",
+    "acolyte_walk2.png",
+    "infernal_ambience.wav",
+    "infernal_sanctuary.png"
+  ],
+  "missing": []
+}
